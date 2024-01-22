@@ -1,0 +1,728 @@
+*   [33mb59589c[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m Merge pull request #359 from eficode-academy/jkrag/1000stars
+[31m|[m[32m\[m  
+[31m|[m * [33m1633c2f[m[33m ([m[1;31morigin/jkrag/1000stars[m[33m)[m Celebrate 1000 Stars
+[31m|[m[31m/[m  
+* [33m268f094[m Add rebase-multiple-commits exercise
+[32m|[m * [33m6c8eef8[m[33m ([m[1;31morigin/jkrag/restore-add-sleep[m[33m)[m Add sleep statments to setup
+[32m|[m[32m/[m  
+* [33m273eeb0[m Improve "ignore" kata
+[33m|[m * [33mc74d30b[m[33m ([m[1;31morigin/wip/enchance-readme[m[33m)[m added sofus as maintainer
+[33m|[m[33m/[m  
+[33m|[m * [33m7f2b5dd[m[33m ([m[1;31morigin/uppercase[m[33m)[m hertile
+[33m|[m * [33mc815298[m Add an awesome new file
+[33m|[m[33m/[m  
+*   [33m8bc6cc8[m Merge pull request #350 from eficode-academy/sofusalbertsen-patch-2
+[36m|[m[1;31m\[m  
+[36m|[m * [33m8243701[m[33m ([m[1;31morigin/sofusalbertsen-patch-2[m[33m)[m Update README.md
+[36m|[m[36m/[m  
+* [33m4db7563[m[33m ([m[1;31morigin/sofusalbertsen-patch-1[m[33m)[m Update README.md
+* [33m3b08941[m More improvements to submodules README
+* [33m1796d04[m Cleanup of submodules kata README
+* [33m8f8ea88[m fixup! Rewrite and complete kata steps for image exif diff
+* [33mcbcb04e[m Rewrite and complete kata steps for image exif diff
+* [33mfe59efb[m Added resized mario image for git-attributes kata
+* [33m83c2c02[m Fine tune linting of LFS readme
+* [33md04ba8e[m Improve wording in ff-merge README to be more correct
+* [33m7faef20[m Add useful commands for submodules kata
+* [33m56dc2bd[m Remove remaining --decorate flags in subtree kata
+* [33mfe32ac5[m UPDATE master-based-workflow, remove --decorate flag
+* [33m83fbaa9[m UPDATE basic-revert, remove --decorate flag
+* [33mdccb79a[m UPDATE cherry-pick, remove --decorate flag
+* [33mbb6bace[m Update LFS exercise (typos and formatting)
+* [33mbddcbed[m Update README in cherry-pick exercise
+* [33mce3c715[m Replace checkout with switch
+* [33mf8bce11[m Improve LFS kata instructions
+* [33ma305be3[m Maybe a more cross-platform way of creating large dummy file
+* [33m9efb895[m Add Git LFS exercise
+*   [33maaf0885[m Merge pull request #330 from eficode-academy/editorconfig
+[1;32m|[m[1;33m\[m  
+[1;32m|[m * [33mfe39922[m Add .editorconfig to keep content more clean
+[1;32m|[m[1;32m/[m  
+*   [33m475797f[m Merge pull request #328 from eficode-academy/sofusalbertsen-patch-3
+[1;34m|[m[1;35m\[m  
+[1;34m|[m * [33m04a86db[m Update README.md
+[1;34m|[m[1;34m/[m  
+*   [33m6bbb423[m Merge pull request #326 from safaie/patch-1
+[1;36m|[m[31m\[m  
+[1;36m|[m * [33m15b55fa[m Fixing a typo in alias/README.md
+[1;36m|[m[1;36m/[m  
+* [33mdcc0b56[m Fixed typo in defaultBranch config #319
+* [33mc84e68e[m Fix language in README.md in merge-conflict kata
+* [33m0493be1[m Add missing shebang to save-my-commit/setup.sh
+* [33m46a9f6f[m Fix broken test with git versions >= 2.35.2 #321
+[31m|[m * [33mdac0360[m[33m ([m[1;31morigin/tree-vis[m[33m)[m wip
+[31m|[m * [33m173ca6b[m added small python script to visualize the tree in the investigation exercise
+[31m|[m[31m/[m  
+* [33mc76d582[m Avoid confirmation prompt in mergesort setup script
+* [33m845044b[m Improve wording in ignore exercise
+*   [33m262c7ca[m Merge pull request #310 from eficode-academy/naesheim-patch-2
+[33m|[m[34m\[m  
+[33m|[m *   [33m55f2582[m Merge branch 'master' into naesheim-patch-2
+[33m|[m [35m|[m[33m\[m  
+[33m|[m [35m|[m[33m/[m  
+[33m|[m[33m/[m[35m|[m   
+* [35m|[m [33m08a20a2[m Add a comment about feature/uppercase
+[36m|[m * [33md3b21b7[m Update README.md
+[36m|[m * [33m160094c[m Update README.md
+[36m|[m[36m/[m  
+* [33m02d1043[m[33m ([m[1;33mtag: 0.3.0[m[33m)[m Update to use git switch instead of git checkout
+* [33m8939fd0[m Cleaned up markdown in README files
+* [33m92ffd7a[m add git switch to exercise basic-branching
+* [33med2250f[m Add GH action job with matrix of git versions
+* [33m51ab543[m Test on both bash and zsh
+* [33mcbea88c[m Add comment on cleaning up test artifacts
+* [33m360fcda[m Maybe setting user.name & email globally will fix
+* [33m294e2ef[m Set user name & email in pipeline
+* [33m7f87ffa[m Control default branch & avoid warning about this
+* [33mbfafc04[m Run test-all.sh in pipeline
+* [33m67af4d0[m Count & report no. of failed tests
+* [33m6f1af22[m ShellCheck linting improvements
+* [33m4fc9748[m Use a function
+* [33ma6672e3[m Make the test.sh script actually fail!
+* [33mf6a64f8[m Run all tests in lexicographical order
+* [33m3527832[m Add feature to test all kata setup.sh scripts
+* [33m0a29db0[m adding a new step for basic revert exercise (#296)
+* [33m4650e5c[m Added a step to 3-way-merge (#295)
+* [33m40fefdb[m Add fake remote to advanced-rebase-interactive
+[36m|[m * [33m4e3f9e5[m[33m ([m[1;31morigin/reorder-instructions-unclear[m[33m)[m Clarify task in reorder the history
+[36m|[m[36m/[m  
+* [33m9bff637[m[33m ([m[1;33mtag: 0.2.0[m[33m)[m Clarify description of aliases
+* [33m03f8a83[m Add --global to unset command
+* [33m6c8746e[m Add kata on aliases
+* [33mbb52781[m Fix restore kata title
+* [33mdde744a[m Add restore from history to restore kata
+* [33mb99b682[m Add restore kata
+* [33m3004959[m [Cherry-pick] Fixed some wordings
+* [33m4003230[m Added the git cherry pick task
+* [33m8e82726[m[33m ([m[1;33mtag: 0.1.1[m[33m)[m Fix tag in release asset name
+* [33mfbd782d[m Fix indentation issue in publish.yml
+* [33m4e19fc0[m Change archive publising to a GH Release
+* [33mb17be5e[m Add publish workflow
+* [33mcc38a4a[m Final proposal for subtree git-katas
+* [33m122f4cf[m Add an explanation for commands to run with amend.
+* [33mfe76b80[m Add commands that show contents of commits to better illustrate amending via adding a new file.
+* [33m1d3fdd6[m Fix PR review findings
+* [33mb05ba04[m Create change author kata
+* [33mface7c1[m Add VS Code as a suggested editor
+* [33m74b71e0[m Disable GPG signing of commits locally during setup
+* [33m58ea1c2[m Update README.md
+* [33m78fc4d1[m added explanatory text to ffmerge README
+* [33mad2bf25[m Fix errors in actions CI file
+* [33m37d3650[m Complete zsh test
+* [33mceb99e7[m adding Dockerfile with zsh for regression test
+* [33m5321a48[m FIX problem that kills shell if not bash (#268)
+* [33m98d531e[m Further improve error handling in setup.ps1
+* [33mb44b2c9[m Gracefully fail when removing exercises folder
+* [33mc70be83[m Update README.md for bisect and merge-driver
+* [33m51d8dd3[m Add setup.ps1 and verify.ps1 for rebase-exec kata
+* [33m842eef4[m Add setup.ps1 for pre-push kata
+* [33md659960[m Update README.md for git-attributes and git-tag
+* [33m82d1f0c[m Add setup.ps1 for master-based-workflow kata
+* [33mc42c13b[m Add setup.ps1 for git-tag kata
+* [33m081b82c[m Add setup.ps1 for git-attributes kata
+* [33ma7e3980[m Add file ending new lines
+* [33m0d4aca4[m Create setup script for merge-driver kata
+* [33m3054846[m Create setup and verify scripts for bisect kata
+* [33m393c79d[m Create GitHub actions CI pipeline for running test scripts (#265)
+* [33m0c5870e[m Fix setup scripts of `submodule` kata
+* [33mf5e0af5[m Prevent weird errors when running setup.sh using e.g. bash setup-sh instead of source setup.sh
+* [33m2905cdb[m First try to rework "Configure Git" kata
+* [33mfaa1282[m Consistently write 'Git' if talking about the tool
+* [33m8e32a28[m [Master Workflow] Fix Autor typo
+* [33me6b607b[m Add +x rights to pre-push setup.sh
+* [33m3050dcc[m Consistently use dashes in utils function names
+* [33m40c98ab[m Fixed language and content for config-git
+* [33m80e6b2e[m Fleshed out section one of config-git.md
+* [33me495745[m Add fake author in master-based-workflow exercise
+* [33mb8c4220[m Fix wording in new exercise description
+* [33m2208f3f[m Add master based workflow kata
+* [33m74f9431[m Small typos in ignore kata README
+* [33md7fe47b[m     Elaborate save my commit
+* [33mdf4f747[m use local remote for prepush kata
+* [33m2f70997[m Elaborate and bugfix on rebase-exec
+* [33mafecd63[m Simplify basic revert
+* [33m50cea38[m configure-git README.md: mention private SSH key file
+* [33m01528b6[m  advanced-rebase-interactive README: be consistent with cmdline args
+*   [33mda71cd7[m Merge pull request #236 from praqma-training/git-katas-unset-e
+[1;32m|[m[1;33m\[m  
+[1;32m|[m * [33mde28d2b[m unset error option at the end
+[1;32m|[m[1;32m/[m  
+*   [33mbba8d07[m Merge pull request #235 from praqma-training/git-katas-issue-59
+[1;34m|[m[1;35m\[m  
+[1;34m|[m * [33meb81702[m changed how shell script could be sourced in katas
+* [1;35m|[m [33m8c48cc7[m helper functions to set and unset local user for training bot commits. Updated setup.sh instructions in few katas to take new effect in place.
+* [1;35m|[m [33me2166a9[m chaning email address to suggested
+* [1;35m|[m [33m4e4039a[m updating a email address to look like one.
+* [1;35m|[m [33m17ebe6a[m Set local git user name and email after initializing exercise repo (to distinguish commits).
+* [1;35m|[m   [33mee47b7d[m Merge pull request #234 from praqma-training/git-katas-issue-146
+[1;35m|[m[31m\[m [1;35m\[m  
+[1;35m|[m [31m|[m[1;35m/[m  
+[1;35m|[m[1;35m/[m[31m|[m   
+[1;35m|[m * [33mc85f03b[m clearing the description to be precise
+[1;35m|[m * [33mf7d084a[m correction to wrong description of 'git reset'
+[1;35m|[m * [33m574ee38[m clarified pull-request comments
+[1;35m|[m * [33me3aab3e[m Updating git cheatsheet
+[1;35m|[m[1;35m/[m  
+* [33mfbb5185[m Update README.md
+* [33m335e019[m Clean up unused trainer-notes.md
+* [33mc1514f2[m Add kata Rebase Interactive with autosquash
+* [33m032a8fc[m Fix typos in submodule README
+* [33m262c478[m Fix three typos
+* [33m1e07423[m Expand  on  submodules kata
+* [33m1ef8902[m Use explicit numbering
+* [33mdbfccc8[m Added pointer to Overview also as Learning Path
+* [33m1848caf[m Reordered katas on Overiew and added missing ones
+* [33m03298e1[m fix: wording
+[31m|[m * [33m558a2b4[m[33m ([m[1;31morigin/brent-clark-SED-Sw-Mgr/improve-overview[m[33m)[m Use explicit numbering
+[31m|[m * [33mf434641[m Added pointer to Overview also as Learning Path
+[31m|[m * [33m34b1e55[m Reordered katas on Overiew and added missing ones
+[31m|[m[31m/[m  
+* [33mf8712d5[m Add missing shebang in squashing/setup.sh
+* [33me060df6[m Word ordering
+* [33m6ccb858[m Mention `less` in SHELL-BASICS.md
+* [33mf805e2a[m Added kata for .gitattributes
+* [33m9669044[m Simplify `git lol` alias
+* [33m892d64f[m Fix link in squashing-README
+* [33m1f9ead1[m Minor improvements to submodules/README.md
+* [33m956ac8d[m Removed reference to 'git rev-pars'
+* [33m9313b5a[m Improved squashing/README.md
+* [33meb6c517[m Added kata about git tags.
+* [33m451a2b0[m Update README.md
+* [33m5ccbc50[m Changed "git" to "Git" in detached-head/README
+* [33mf94e033[m Added to the task detached-head/README.
+* [33m1b921a4[m Added The task in save-my-commit/README.md
+* [33mc9df4ca[m Added to The task in reverted-merge/README.md
+* [33me52649c[m Added to The task in merge-conflict/README.md
+* [33mac8f6c2[m Added The task to commit-on-wrong-branch/README.md
+* [33m2e29b3b[m Added the task section to bad-commit/README.md
+* [33m66f5b27[m Added useful commands and more to reset/README
+* [33m8100f96[m Add clone step to README Gif
+* [33mee01d2c[m Added to the task in reorder-the-history/README.
+* [33mf56e566[m Added useful commands section to amend/README.
+* [33m3b9e5ea[m Added to Merge Mergesort README
+* [33m0f430e6[m Use makerepo function
+* [33m9e8ed9d[m Set theme jekyll-theme-midnight
+*   [33m00a9e17[m Merge pull request #201 from Natasha2001/master
+[33m|[m[34m\[m  
+[33m|[m * [33m59d5e43[m Introduction to github
+* [34m|[m   [33m03a672f[m Merge pull request #202 from atombrella/rebase_source
+[35m|[m[36m\[m [34m\[m  
+[35m|[m * [34m|[m [33m46c519b[m Added exec-flag to setup.sh script, and fixed syntax error with shebang.
+[35m|[m [34m|[m[34m/[m  
+* [34m|[m   [33me231eef[m Merge pull request #200 from atombrella/git_ignore_track_ignored
+[1;31m|[m[1;32m\[m [34m\[m  
+[1;31m|[m * [34m|[m [33m301f919[m Added exercise about excluding something from .gitignore
+[1;31m|[m [34m|[m[34m/[m  
+* [34m|[m   [33mdfcb536[m Merge pull request #196 from brent-clark-SED-Sw-Mgr/add-to-basic-commits-readme
+[1;33m|[m[1;34m\[m [34m\[m  
+[1;33m|[m * [34m|[m [33m168599d[m Added more explanatory text to basic-commits/README
+[1;33m|[m [34m|[m[34m/[m  
+* [34m|[m   [33ma5dbbc6[m Merge pull request #193 from atombrella/git_attributes
+[1;35m|[m[1;36m\[m [34m\[m  
+[1;35m|[m * [34m\[m   [33m10665da[m Merge branch 'master' into git_attributes
+[1;35m|[m [31m|[m[1;35m\[m [34m\[m  
+[1;35m|[m [31m|[m[1;35m/[m [34m/[m  
+[1;35m|[m[1;35m/[m[31m|[m [34m|[m   
+* [31m|[m [34m|[m   [33m10df68a[m Merge pull request #192 from praqma-training/improve-rebase-exercise
+[34m|[m[34m\[m [31m\[m [34m\[m  
+[34m|[m [34m|[m[34m_[m[31m|[m[34m/[m  
+[34m|[m[34m/[m[34m|[m [31m|[m   
+[34m|[m [34m|[m * [33maa5504a[m Added .gitattributes to make line endings consistent.
+[34m|[m [34m|[m[34m/[m  
+[34m|[m[34m/[m[34m|[m   
+* [34m|[m   [33mbf0be72[m Merge pull request #194 from atombrella/grammar_fixes
+[35m|[m[36m\[m [34m\[m  
+[35m|[m * [34m|[m [33m5feeba2[m Fixed a typo in reorder-the-history/README.md
+* [36m|[m [34m|[m   [33medf1b33[m Merge pull request #199 from atombrella/git_config_format
+[36m|[m[1;32m\[m [36m\[m [34m\[m  
+[36m|[m [1;32m|[m[36m/[m [34m/[m  
+[36m|[m[36m/[m[1;32m|[m [34m|[m   
+[36m|[m * [34m|[m [33mb257ccd[m Tweaked markdown in configure-git katas a bit.
+[36m|[m[36m/[m [34m/[m  
+* [34m|[m [33mecf8776[m Added atom and vscode to config examples
+[1;32m|[m [34m|[m * [33m49eadf7[m[33m ([m[1;31morigin/improve-rebase-powershell[m[33m)[m Provide Powershell versions of new remote setup
+[1;32m|[m [34m|[m[34m/[m  
+[1;32m|[m * [33m9b63379[m Change fake remote script to create bare repo
+[1;32m|[m * [33mb63f172[m Change reorder-the-history exercise to use a remote
+[1;32m|[m * [33mb4bc03c[m Add simple way of setting up fake remote for exercises
+[1;32m|[m[1;32m/[m  
+*   [33m9e853b3[m Merge pull request #191 from grammeaway/master
+[1;34m|[m[1;35m\[m  
+[1;34m|[m * [33mc842cfc[m Fixed numbering, so that it now increments both in shell and in markdown
+[1;34m|[m[1;34m/[m  
+*   [33m3483d7d[m Merge pull request #190 from kvartborg/make-setup-executable-in-bisect-kata
+[1;36m|[m[31m\[m  
+[1;36m|[m * [33m3d71a75[m setup.sh and verify.sh should be executables
+[1;36m|[m[1;36m/[m  
+*   [33mae5cd71[m Merge pull request #189 from praqma-training/learning-path
+[32m|[m[33m\[m  
+[32m|[m * [33m2c965de[m Add learning path to README
+[32m|[m[32m/[m  
+*   [33m5559421[m Merge pull request #184 from adamatan/markdown-fix
+[34m|[m[35m\[m  
+[34m|[m * [33m34b461e[m Mark "git status" as code
+[34m|[m[34m/[m  
+* [33m5161a41[m Adding note about running sh in windows FIX  #183
+*   [33m70226d3[m Merge pull request #182 from ntnhon/patch-1
+[36m|[m[1;31m\[m  
+[36m|[m * [33m55d4be4[m Fix typos
+* [1;31m|[m   [33m590fc3f[m Merge pull request #181 from adamatan/master
+[1;32m|[m[1;33m\[m [1;31m\[m  
+[1;32m|[m * [1;31m|[m [33m2baefaa[m Style: mark 'file.txt' as code
+[1;32m|[m [1;31m|[m[1;31m/[m  
+* [1;31m|[m   [33mcb578ea[m Merge pull request #180 from ftheile/fix-typo
+[1;31m|[m[1;35m\[m [1;31m\[m  
+[1;31m|[m [1;35m|[m[1;31m/[m  
+[1;31m|[m[1;31m/[m[1;35m|[m   
+[1;31m|[m * [33m11470d0[m Fix a typo: append missing closing brace
+[1;31m|[m[1;31m/[m  
+*   [33m93a767b[m Merge pull request #179 from ftheile/patch-1
+[1;36m|[m[31m\[m  
+[1;36m|[m * [33m1119c7f[m Update SHELL-BASICS.md
+[1;36m|[m * [33m9989a82[m Mention `touch` to create an empty file
+[1;36m|[m[1;36m/[m  
+*   [33mfc4849b[m Merge pull request #178 from praqma-training/remove-decorate
+[32m|[m[33m\[m  
+[32m|[m * [33m246e4b3[m Remove --decorate from katas
+* [33m|[m [33mb5c61c2[m Fixed commit -m example
+* [33m|[m [33m73c89b3[m Add more editor config options to basic-commits
+[33m|[m[33m/[m  
+* [33mfe14a39[m Add a bare minimum shell survival guide for training
+*   [33m950fd3c[m Merge pull request #176 from praqma-training/170-remove-patch-mode
+[34m|[m[35m\[m  
+[34m|[m * [33ma44aaf9[m Remove usage of patch mode add from 3-way-merge exercise
+[34m|[m[34m/[m  
+*   [33mf6a1b48[m Merge pull request #175 from katrinleinweber/fix-typos
+[36m|[m[1;31m\[m  
+[36m|[m * [33mcdce2f5[m Fix typos
+[36m|[m[36m/[m  
+[36m|[m * [33m8a577af[m[33m ([m[1;31morigin/pr-verify[m[33m)[m double [[ ]] fails in WSL bash.
+[36m|[m[36m/[m  
+*   [33m4a05068[m Merge pull request #169 from praqma-training/less-decorate
+[1;33m|[m[1;34m\[m  
+[1;33m|[m * [33m26b365e[m Remove `--decorate` in basic exercises log examples
+[1;33m|[m[1;33m/[m  
+* [33m837a59c[m Small improvements to README
+* [33me126be6[m Fixed various spelling mistakes
+* [33ma1f08bf[m Added config info about configuring notepad++
+*   [33m92be66b[m Merge pull request #159 from praqma-training/138-explicit-cd-in-instructions
+[1;35m|[m[1;36m\[m  
+[1;35m|[m *   [33mca4b14a[m Merge branch 'master' into 138-explicit-cd-in-instructions
+[1;35m|[m [31m|[m[1;35m\[m  
+[1;35m|[m [31m|[m[1;35m/[m  
+[1;35m|[m[1;35m/[m[31m|[m   
+* [31m|[m   [33ma5a30a6[m Merge pull request #168 from figaw/master
+[33m|[m[34m\[m [31m\[m  
+[33m|[m * [31m\[m   [33m7c42526[m Merge branch 'master' into master
+[33m|[m [35m|[m[33m\[m [31m\[m  
+[33m|[m [35m|[m[33m/[m [31m/[m  
+[33m|[m[33m/[m[35m|[m [31m|[m   
+* [35m|[m [31m|[m   [33mf75f8a2[m Merge pull request #166 from praqma-training/test-script
+[1;31m|[m[1;32m\[m [35m\[m [31m\[m  
+[1;31m|[m * [35m|[m [31m|[m [33m3093cc6[m Add brief test info
+[1;31m|[m * [35m|[m [31m|[m [33m91438c2[m Add bash test script
+* [1;32m|[m [35m|[m [31m|[m [33m11b7476[m Fix #5 rewording the exercise to the new layout.
+[1;32m|[m [1;32m|[m * [31m|[m [33mabdd4af[m Add good base for git cheat sheet #146
+[1;32m|[m [1;32m|[m [1;32m|[m * [33maf5460c[m Fix #138 Sanitize all READMEs wrt entering the exercise folder
+[1;32m|[m [1;32m|[m[1;32m_[m[1;32m|[m[1;32m/[m  
+[1;32m|[m[1;32m/[m[1;32m|[m [1;32m|[m   
+* [1;32m|[m [1;32m|[m [33m6e17279[m FIX  #2 making description more clear
+[1;32m|[m [1;32m|[m [1;32m|[m * [33m910d277[m[33m ([m[1;31morigin/test-script[m[33m)[m Added a embryo of a bash script translation from Powershell
+[1;32m|[m [1;32m|[m [1;32m|[m * [33mcb7f4e7[m Added missing file test.sh
+[1;32m|[m [1;32m|[m [1;32m|[m * [33m5ddbe30[m Added functionality to loop trough the setup.ps1 files and execute them
+[1;32m|[m [1;32m|[m [1;32m|[m[1;32m/[m  
+[1;32m|[m [1;32m|[m[1;32m/[m[1;32m|[m   
+[1;32m|[m * [1;32m|[m [33mad91b94[m Add test powershell close #161
+[1;32m|[m[1;32m/[m [1;32m/[m  
+* [1;32m|[m [33m60ac7ae[m Merge pull request #158 from figaw/master
+[1;34m|[m[1;32m\[m[1;32m|[m 
+[1;34m|[m * [33m663dd7f[m Add 'open in gcs btn' close #149
+[1;34m|[m[1;34m/[m  
+* [33me6c4a07[m Fixed spelling
+*   [33m52f326f[m Merge pull request #148 from Neppord/rebase-exec-kata
+[1;36m|[m[31m\[m  
+[1;36m|[m * [33m905aae7[m First version of rebase-exec.
+* [31m|[m   [33m3c06534[m Merge pull request #153 from bothzoli/feature/powershell-setup
+[32m|[m[33m\[m [31m\[m  
+[32m|[m * [31m|[m [33mff37a57[m Correct a minor bug in ignore/setup.ps1
+[32m|[m * [31m|[m [33m344c846[m Add PowerShell setup files for further katas
+[32m|[m[32m/[m [31m/[m  
+* [31m|[m [33m1ba5cac[m Fix typos in bisect kata
+* [31m|[m   [33m5918c1c[m Merge pull request #150 from Neppord/bisect-kata
+[34m|[m[35m\[m [31m\[m  
+[34m|[m * [31m|[m [33m816c858[m Improve the bisect readme.
+[34m|[m * [31m|[m [33m829a1b0[m Add a more flavoured readme for bisect.
+[34m|[m * [31m|[m [33md7620eb[m Add first version of the bisect kata.
+[34m|[m [31m|[m[31m/[m  
+* [31m|[m [33m19ad4c1[m Fix typo in squashing readme
+* [31m|[m   [33mbbb5663[m Merge pull request #152 from bothzoli/feature/powershell-setup
+[36m|[m[1;31m\[m [31m\[m  
+[36m|[m * [31m|[m [33m6f3910a[m Add PowerShell setup option to README.md files
+[36m|[m * [31m|[m [33ma644490[m Add PowerShell setup files for further katas
+* [1;31m|[m [31m|[m   [33m07fa649[m Merge pull request #151 from bothzoli/bug/basic-branching
+[1;31m|[m[1;33m\[m [1;31m\[m [31m\[m  
+[1;31m|[m [1;33m|[m[1;31m/[m [31m/[m  
+[1;31m|[m[1;31m/[m[1;33m|[m [31m|[m   
+[1;31m|[m * [31m|[m [33m06ea087[m Fix error in setup of basic-branching kata
+[1;31m|[m[1;31m/[m [31m/[m  
+* [31m|[m   [33m579bdbc[m Merge pull request #147 from bothzoli/feature/powershell-setup
+[31m|[m[1;35m\[m [31m\[m  
+[31m|[m [1;35m|[m[31m/[m  
+[31m|[m[31m/[m[1;35m|[m   
+[31m|[m * [33mfbab3e8[m Add Powershell setup files for basic katas
+* [1;35m|[m [33m4fa77c3[m Fix typo in README
+[1;35m|[m[1;35m/[m  
+* [33mfe4cf7a[m Added advanced interactive rebase exercise
+*   [33m18da738[m Merge pull request #144 from praqma-training/sal-basic-revert
+[1;36m|[m[31m\[m  
+[1;36m|[m * [33m4cab2fa[m Made the change suggested by review
+[1;36m|[m * [33m6a1e6fd[m added first draft of revert
+* [31m|[m   [33mab462f0[m Merge pull request #142 from praqma-training/JKrag-patch-1
+[31m|[m[33m\[m [31m\[m  
+[31m|[m [33m|[m[31m/[m  
+[31m|[m[31m/[m[33m|[m   
+[31m|[m * [33m56eebc2[m Suggestion about rev-parse changed to reflog
+[31m|[m[31m/[m  
+*   [33m732a979[m Merge pull request #141 from indy5858/add-second-commit-on-wrong-branch
+[34m|[m[35m\[m  
+[34m|[m * [33ma4e8f5a[m Clarify that reset does not remove commit from repository
+[34m|[m *   [33m4f561cb[m Merge branch 'add-second-commit-on-wrong-branch'
+[34m|[m [36m|[m[1;31m\[m  
+[34m|[m [36m|[m * [33m60025f2[m Make script executable
+[34m|[m [36m|[m * [33me91c90d[m Remove -e switch
+[34m|[m [36m|[m * [33m36466d0[m Update overview
+[34m|[m [36m|[m * [33mbf2681a[m Add question on bringing bugfix to feature branch
+[34m|[m [36m|[m * [33m173ff46[m Improve instructions
+[34m|[m [36m|[m * [33m6d62895[m Reformat
+[34m|[m [36m|[m * [33mea2e10c[m Separate bugfix code from feature to make git figure out how to merge
+[34m|[m * [1;31m|[m   [33m713817a[m Merge branch 'add-reverted-merge'
+[34m|[m [1;31m|[m[1;33m\[m [1;31m\[m  
+[34m|[m [1;31m|[m [1;33m|[m[1;31m/[m  
+[34m|[m [1;31m|[m[1;31m/[m[1;33m|[m   
+[34m|[m * [1;33m|[m [33m11c0bde[m Add kata for commit on wrong branch
+[34m|[m * [1;33m|[m [33mc2ae5f2[m Replace project by product in README
+* [1;33m|[m [1;33m|[m [33m6cc68e8[m Add link to faulty merge gist
+* [1;33m|[m [1;33m|[m   [33m5576117[m Merge pull request #140 from indy5858/add-reverted-merge
+[1;34m|[m[1;35m\[m [1;33m\[m [1;33m\[m  
+[1;34m|[m * [1;33m|[m [1;33m|[m [33m5fc6693[m Reformat
+[1;34m|[m * [1;33m|[m [1;33m|[m [33m8dcc721[m add note on feature Y
+[1;34m|[m * [1;33m|[m [1;33m|[m [33mf4dbba6[m remove unused variable
+[1;34m|[m * [1;33m|[m [1;33m|[m [33mdab8d2c[m remove comments
+[1;34m|[m * [1;33m|[m [1;33m|[m [33mcbdb152[m remove check on correct directory
+[1;34m|[m * [1;33m|[m [1;33m|[m [33mbfe7368[m Remove -e switch
+[1;34m|[m [1;33m|[m [1;33m|[m[1;33m/[m  
+[1;34m|[m [1;33m|[m[1;33m/[m[1;33m|[m   
+[1;34m|[m * [1;33m|[m [33m6977492[m Update overview
+[1;34m|[m [1;33m|[m[1;33m/[m  
+[1;34m|[m * [33m7e482a8[m Rephrase story
+[1;34m|[m * [33m3038ad9[m Remove revert and put in as task
+[1;34m|[m * [33m553510e[m Add kata description
+[1;34m|[m * [33mfa50bf2[m Add new kata setup
+[1;34m|[m[1;34m/[m  
+*   [33m87d8b78[m Merge pull request #137 from tomhostyn/mk_stash_kata_2
+[1;36m|[m[31m\[m  
+[1;36m|[m * [33mee842d0[m Update README.md
+[1;36m|[m * [33m14fe4e6[m Update Overview.md
+[1;36m|[m * [33m2e6c29e[m Update README.md
+[1;36m|[m * [33mb5006e6[m Update README.md
+[1;36m|[m * [33mcaaf6d6[m Update README.md
+[1;36m|[m * [33mbadca07[m change instruction to execute setup rather than source
+[1;36m|[m * [33meaa038c[m 	modified:   setup.sh  		edit kata name
+[1;36m|[m * [33m72a3634[m address pull request comments. uppercase, setup and newlines after headers
+[1;36m|[m *   [33m7a62cd1[m Merge branch 'master' of github.com:tomhostyn/gitkatas
+[1;36m|[m [32m|[m[33m\[m  
+[1;36m|[m [32m|[m *   [33m2f53fae[m Merge branch 'master' into master
+[1;36m|[m [32m|[m [34m|[m[1;36m\[m  
+[1;36m|[m [32m|[m[1;36m_[m[34m|[m[1;36m/[m  
+[1;36m|[m[1;36m/[m[32m|[m [34m|[m   
+[1;36m|[m * [34m|[m   [33m3c9b885[m Merge branch 'master' of https://github.com/praqma-training/gitkatas
+[1;36m|[m [34m|[m[1;36m\[m [34m\[m  
+[1;36m|[m [34m|[m[1;36m/[m [34m/[m  
+[1;36m|[m[1;36m/[m[34m|[m [34m/[m   
+[1;36m|[m [34m|[m[34m/[m    
+* [34m|[m   [33m592ea2d[m Merge pull request #136 from tomhostyn/mk_basic_clean_kata
+[1;32m|[m[1;33m\[m [34m\[m  
+[1;32m|[m * [34m|[m [33m8b43d4c[m Update Overview.md
+[1;32m|[m * [34m|[m [33m66c3f4b[m quote filenames
+[1;32m|[m * [34m|[m [33mcfb37b5[m Update README.md
+[1;32m|[m * [34m|[m [33m47ee62e[m Update README.md
+[1;32m|[m * [34m|[m [33med1844d[m mv source to src. add README.txt
+[1;32m|[m * [34m|[m [33mb8246c5[m initial kata
+[1;32m|[m[1;32m/[m [34m/[m  
+[1;32m|[m * [33m905a230[m Update Overview.md
+[1;32m|[m * [33ma908e68[m change to basic-stashing to match naming convention of other katas
+[1;32m|[m *   [33m65f4996[m Merge branch 'master' of github.com:tomhostyn/gitkatas
+[1;32m|[m [1;34m|[m[1;35m\[m  
+[1;32m|[m [1;34m|[m * [33m046805a[m Update README.md
+[1;32m|[m [1;34m|[m * [33m27ea654[m Update README.md
+[1;32m|[m [1;34m|[m * [33m2ccc236[m Update README.md
+[1;32m|[m [1;34m|[m * [33m59f0fa3[m Update README.md
+[1;32m|[m [1;34m|[m * [33m14fdde5[m Update README.md
+[1;32m|[m * [1;35m|[m [33m14c21f8[m update script to add 2nd file, easy to fix bug
+[1;32m|[m [1;35m|[m[1;35m/[m  
+[1;32m|[m * [33md608d4a[m initial setup.sh and empty doc
+[1;32m|[m[1;32m/[m  
+*   [33m135f96d[m Merge pull request #133 from OEHC/patch-3
+[1;36m|[m[31m\[m  
+[1;36m|[m * [33mbc03a94[m Make checkout command more clear
+* [31m|[m   [33ma915cd2[m Merge pull request #134 from tomhostyn/fix_pre-push_executable
+[31m|[m[33m\[m [31m\[m  
+[31m|[m [33m|[m[31m/[m  
+[31m|[m[31m/[m[33m|[m   
+[31m|[m * [33mb6b44dc[m 	modified:   pre-push 		make the pre-push script executable
+[31m|[m[31m/[m  
+* [33m21cb0ca[m add cd exercise to basic-commits
+* [33maf4b61c[m fix basic commits link on overview
+* [33m9d61237[m Add patch mode flag
+*   [33m3909ab1[m Merge pull request #129 from Monadproxy/patch-1
+[34m|[m[35m\[m  
+[34m|[m * [33mbb860cc[m Casing fix
+[34m|[m[34m/[m  
+*   [33m4a424b7[m Merge pull request #128 from praqma-training/meekrosoft-remove
+[36m|[m[1;31m\[m  
+[36m|[m * [33m2acf11b[m Remove unnecessary cd command
+[36m|[m[36m/[m  
+*   [33m22bcc19[m Merge pull request #125 from Voles/patch-1
+[1;32m|[m[1;33m\[m  
+[1;32m|[m * [33mcbeb725[m Update README.md
+[1;32m|[m * [33m0ca606a[m Update README.md for the bad-commit kata
+[1;32m|[m[1;32m/[m  
+* [33m4c154e1[m Update README.md
+*   [33m77bc43f[m Merge pull request #119 from abingham/returning-sorted-list
+[1;34m|[m[1;35m\[m  
+[1;34m|[m * [33ma8035fc[m Returning sorted list, not `None`.
+* [1;35m|[m   [33m8ce742c[m Merge pull request #123 from praqma-training/recommend_nano_not_emacs
+[1;36m|[m[31m\[m [1;35m\[m  
+[1;36m|[m * [1;35m|[m [33m31b26c5[m Recommend nano instead of emacs
+* [31m|[m [1;35m|[m [33m634c331[m Set theme jekyll-theme-cayman
+* [31m|[m [1;35m|[m [33mfc163ea[m Add docs folder
+[31m|[m[31m/[m [1;35m/[m  
+* [1;35m|[m [33m52f2dfd[m Remove the set -e since it kills the terminal session when sourced
+* [1;35m|[m [33m2496fde[m Create trainer-notes.md
+* [1;35m|[m   [33m5a284f0[m Merge pull request #104 from praqma-training/figaw-patch-1
+[32m|[m[33m\[m [1;35m\[m  
+[32m|[m * [1;35m|[m [33mf1681b4[m Update README.md suggest phrasing. ADD exercise.
+* [33m|[m [1;35m|[m [33maab6b9f[m Split setup into two steps
+* [33m|[m [1;35m|[m [33m638b04b[m Update README.md
+* [33m|[m [1;35m|[m [33mfdf9fbe[m Update submodule kata.
+* [33m|[m [1;35m|[m [33m52a573f[m Update README.md
+* [33m|[m [1;35m|[m [33m207dd9c[m Update README.md
+* [33m|[m [1;35m|[m [33m91624cf[m Update README.md
+* [33m|[m [1;35m|[m [33m9575eee[m Add detach head so we can push to the component repo
+[1;35m|[m [33m|[m[1;35m/[m  
+[1;35m|[m[1;35m/[m[33m|[m   
+* [33m|[m [33m1db7e16[m Added bisect instructions to bad-commit kata
+* [33m|[m [33m52064ac[m Add git configuration kata
+* [33m|[m   [33m1db0ba9[m Merge pull request #116 from praqma-training/ready/merge-driver-kata
+[34m|[m[35m\[m [33m\[m  
+[34m|[m * [33m|[m [33m6836787[m Add merge-driver kata
+[34m|[m[34m/[m [33m/[m  
+* [33m/[m [33mf06bff2[m Add space rather than /
+[33m|[m[33m/[m  
+* [33m53f588c[m Update README.md close #103
+*   [33m05ac128[m Merge pull request #102 from vimes90/patch-1
+[36m|[m[1;31m\[m  
+[36m|[m * [33m308347b[m Added env
+[36m|[m[36m/[m  
+* [33me99146c[m Update typo in instructions
+*   [33m117ec3c[m Merge pull request #100 from pedrorijo91/patch-2
+[1;32m|[m[1;33m\[m  
+[1;32m|[m * [33ma10ce5c[m Fix relevant git command code syntax
+[1;32m|[m[1;32m/[m  
+*   [33m2cb8527[m Merge pull request #99 from pedrorijo91/patch-1
+[1;34m|[m[1;35m\[m  
+[1;34m|[m * [33m1debcd9[m Fix markdown link
+[1;34m|[m[1;34m/[m  
+* [33m6ee00fa[m close #98 Optimize quickstart gif size
+* [33m6ce5c5d[m close #97 Create animated gif showing a typical kata flow
+*   [33m773dcbc[m Merge pull request #96 from brianamarie/master
+[1;36m|[m[31m\[m  
+[1;36m|[m * [33m879f28b[m add --all to see difference in commits on branches
+[1;36m|[m[1;36m/[m  
+* [33m0666e4d[m formatting in README
+* [33mdc5842c[m close #91 Add filename to ignore kata
+* [33me1ccb47[m close #84 align reorder the history
+* [33md403542[m close #83 align rebasebranch
+* [33md7a2b79[m align merge-mergesort
+* [33me356cec[m align merge-conflict
+* [33mf72eb83[m Align investigation
+* [33ma5b7a37[m Align ignore
+* [33m3278821[m align ff-merge close #80
+* [33m29ff930[m close #76 align detached head
+* [33md50bade[m close #75 align commit on wrong branch
+* [33mc22be1b[m align basic-staging
+* [33me30b2a3[m Align bad-commit
+* [33m28e2650[m Align amend
+* [33mc9b3623[m close #74 align 3 way merge
+* [33m605ba13[m close #72 add utils to basic commits
+* [33md48920a[m close #71 Fix basic branching branches and util class
+* [33m673bb59[m close #69 Create utility shell script for creation of exercise repo
+* [33maa3c875[m remove fluff file
+* [33m5dcfa14[m Add last links
+* [33m700b3fd[m Add link to Overview from README
+* [33m5ee648b[m Add links to exercise READMEs in Overview.md
+* [33m8f84c6d[m Add link to bad-commit
+* [33m2791336[m Add initial overview
+* [33mc4ebd37[m added infor to merge-mergestort kata
+* [33mea3afeb[m moved hint to the top
+* [33m1b9b5ca[m removed merging from basic-branching exercise
+* [33md74daa7[m explained git rm and git rm --cached
+* [33mc42162b[m made oneline intro to kata
+* [33md14f8c4[m made intro and changes to the basic-staging kata
+* [33m3686223[m made additions to basic-ignore kata
+*   [33m542aa31[m Merge branch '62-basic-ignore-kata-is-not-basic'
+[32m|[m[33m\[m  
+[32m|[m * [33m35e0574[m close #62 basic ignore kata is not basic
+* [33m|[m [33ma0d7c91[m RUnway-1234
+[33m|[m[33m/[m  
+* [33m9d1c1a4[m close #60 move first step to step list in basic branching
+* [33m6598791[m fix setup.sh
+* [33m49fe1fd[m close #54 Add usage and contributing to README
+* [33m721169e[m close #47 Consistent Git casing in README
+* [33m2575ea3[m close #46 Hemingwayappify the README
+* [33m654a813[m close #25 Remove exercise dir in setup of amend kata
+* [33m3730ccb[m close #26 Remove exercise dir in setup of bad commit kata
+* [33m0165d93[m close #27 Remove exercise dir in setup of basic commits kata
+* [33mb401004[m close #28 Remove exercise dir in setup of basic staging kata
+* [33m5f24dd2[m close #30 Remove exercise dir in setup of detached head kata
+* [33m5b52a84[m close #31 Remove exercise dir in setup of ff merge kata
+* [33m9e36c93[m close #32 Remove exercise dir in setup of investigation kata
+* [33m7ac81e4[m close #33 Remove exercise dir in setup of merge conflict kata
+* [33m012acc6[m close #34 Remove exercise dir in setup of reorder the history kata
+* [33m9641340[m close #35 Remove exercise dir in setup of reset kata
+* [33m882efd1[m close #36 Remove exercise dir in setup of save my commit kata
+* [33m039260b[m close #37 Remove exercise dir in setup of squashing kata
+*   [33m2aefc3b[m Merge pull request #44 from praqma-training/ready/38-Remove-exercise-dir-in-setup-of-submodules-kata
+[34m|[m[35m\[m  
+[34m|[m * [33m7950494[m close #38 Remove exercise dir in setup of submodules kata
+[34m|[m[34m/[m  
+* [33m6f32132[m close #39 Set executable flag on bad commit setup
+* [33m2584c93[m close #40 Set executable flag on commit on wrong branch setup
+* [33m275245a[m close #41 Set executable flag on reset kata setup file
+* [33m5df9d77[m close #42 Set executable flag on squashing kata setup file
+* [33me8b3566[m close #43 Set executable flag on submodules kata setup file
+*   [33mdb4c31f[m Merge pull request #24 from OEHC/patch-2
+[36m|[m[1;31m\[m  
+[36m|[m * [33m1469409[m Add merge to list if useful commands. Closes #23
+[36m|[m[36m/[m  
+* [33mc2e788a[m Add license
+* [33m63730d2[m Fixing windows line endings, and setting chmod +x
+*   [33mc3c9316[m Merge branch 'master' of ssh://github.com/praqma-training/gitkatas
+[1;32m|[m[1;33m\[m  
+[1;32m|[m *   [33m8202514[m Merge pull request #22 from praqma-training/21-fix-readme
+[1;32m|[m [1;34m|[m[1;35m\[m  
+[1;32m|[m [1;34m|[m * [33m7b22bc9[m Fix #21: Git with uppercase G
+[1;32m|[m [1;34m|[m[1;34m/[m  
+* [1;34m/[m [33m058cb75[m Fixing windows line endings, and setting chmod +x
+[1;34m|[m[1;34m/[m  
+* [33me980e7b[m README.md included with simple task description
+* [33ma06b4c0[m First draft on new kata - merging simple python code
+* [33m874727a[m dos2unix fix of line endings in setup.sh, chmod +x as well
+* [33m8e588bb[m add .swp files to .gitignore
+* [33m0df67e7[m Add investigative kata
+* [33m6bc7705[m Cleanup in basic-ignore exercise
+* [33m3eda928[m Update rebase-branch readme
+*   [33m0077e90[m Merge pull request #20 from OEHC/patch-1
+[1;36m|[m[31m\[m  
+[1;36m|[m * [33ma6c7f7d[m Put command in code-tags
+[1;36m|[m[1;36m/[m  
+* [33mbfcb799[m Extended and updated excercise, based on same git setup - just more student reflection
+* [33m0dcb459[m Make basic-branching setup executable
+* [33m8fa9e7f[m Update amend kata
+* [33me3d56c5[m Update merge conflict README
+* [33m2a36f7e[m Update setup comment
+* [33m2552fc9[m Make 3-way exercise text more generic
+* [33m78fb985[m Update kata title
+* [33mc85ac83[m Fix kata name in merge-conflict kata setup
+* [33ma14fe47[m Update 3-way kate setup
+* [33mfe14b69[m Update 3-way merge kata title
+* [33m6a6e8d9[m Added commit of file1.txt before added to gitignore
+* [33m0cc3388[m added missing file
+* [33m151e16d[m Added x to setup.sh
+* [33m3cb578a[m Added x to setup.sh
+* [33m69758eb[m setup.sh now with x
+* [33m1eef178[m Add RandomSort as maintainer
+* [33mf21c112[m Add basic git configuration
+* [33m03dfe9b[m Consistent use of ordered lists in tasks
+* [33m94d0402[m Update README
+* [33m836be14[m Ordered list in basic-commits
+* [33me411440[m Add git merge to README
+* [33me0f707b[m Add cd to basic-branching README.md
+* [33mc508862[m fix issue with branching from empty repo
+*   [33m0d4f042[m Merge pull request #17 from jarnfast/master
+[32m|[m[33m\[m  
+[32m|[m * [33me40e943[m fixed branch creation
+* [33m|[m [33mf8f46f0[m Add rebase exercise
+* [33m|[m [33m61bb9ae[m Update the confilct exercise
+* [33m|[m [33me49dcf6[m Make setup script executable
+* [33m|[m [33m065335f[m 3-way-merge exercise
+* [33m|[m [33m1542bca[m Fast-forward merge kata
+[33m|[m[33m/[m  
+* [33mf8ed8aa[m clarify save-my-commit
+* [33m9f3a1cf[m Add hook exercise
+* [33md22632a[m Copy submodule exercise from slides
+* [33m1724745[m update to new form + clarify
+* [33m53ac1a8[m Add reset exercise from slides
+* [33maff553b[m clarify squash readme and add initial commit
+* [33m2fe62a6[m move amend exercise from slides
+* [33m84122f9[m Add ls-tree to objects
+* [33m134917e[m Run setup in right context
+* [33m9bf81b5[m Move exercise from slides
+*   [33m8c83d4e[m Merge pull request #15 from SirCAS/bugfix/typos
+[34m|[m[35m\[m  
+[34m|[m * [33me47ff2e[m Added missing aprostoffs for alias commands
+[34m|[m[34m/[m  
+*   [33m64cc5a6[m Merge pull request #11 from SirCAS/bugfix/basic-commits
+[36m|[m[1;31m\[m  
+[36m|[m * [33m3fedcb4[m Added missing aprostoffs for alias command
+[36m|[m[36m/[m  
+* [33m90ea41c[m Update title
+* [33me5d7375[m add cd into exercise
+* [33m73d327c[m Add basic-staging exercise
+* [33m6fa8ed9[m fix kata name
+* [33m1e2f82b[m update basic-ignore to new format
+* [33mc61189f[m add exercise dirs to ignore
+* [33m5d3b544[m Update Basic Branching
+* [33m4579e82[m Update basic-commits
+* [33m4870a4d[m clarify shell usage
+* [33m53a0383[m reformulate README.d to new format
+* [33m9e956c6[m restore normalcy in README.md
+* [33me11372e[m add reorder-the-history
+* [33m940382f[m save my commit
+* [33m53734b2[m commit on wrong branch
+* [33me252ef8[m add bad commit
+* [33ma9d0162[m squash and detached head
+* [33mb21b290[m Add merge-conflict
+* [33m5e7e1be[m add .gitignore
+* [33m70765c7[m remove random file
+* [33mdebcebe[m basic-branching README.md
+* [33m38bf215[m add basic-ignore
+*   [33m1955c5e[m merge basic-commits
+[1;32m|[m[1;33m\[m  
+[1;32m|[m * [33m9485fa5[m Make setup.sh executable
+[1;32m|[m * [33mc63e7a6[m Fix branch name
+[1;32m|[m * [33m2f52de5[m fix bash variable assignment
+* [1;33m|[m   [33m57443e1[m merged basic-branching in
+[1;34m|[m[1;35m\[m [1;33m\[m  
+[1;34m|[m * [1;33m|[m [33m3674b5c[m Revert "Add file1.txt"
+[1;34m|[m * [1;33m|[m [33mba8c47e[m Add file1.txt
+[1;34m|[m * [1;33m|[m [33m0b13610[m Make setup.sh executable
+[1;34m|[m * [1;33m|[m [33m93be308[m clarify git branch --list
+[1;34m|[m * [1;33m|[m [33mcd18938[m split git commit
+[1;34m|[m * [1;33m|[m [33m8da1079[m fix bash variable assignment
+[1;34m|[m * [1;33m|[m [33m4dda757[m Add kata description
+[1;34m|[m [1;33m|[m[1;33m/[m  
+[1;34m|[m * [33mf148151[m Add exercise basic-commits
+* [1;35m|[m [33m458006e[m Fix #10 proofread readme
+* [1;35m|[m [33m3d7ed8e[m Add starting point
+* [1;35m|[m [33m5499e2d[m Clarify README.md update
+[1;35m|[m[1;35m/[m  
+* [33m378d06e[m slightly more info in README
+* [33m9c2b46b[m Removed setup.sh to unbefuddle Brian
+* [33m281c491[m Add better description
+* [33mc55e054[m remove trash
+* [33mbe97ec6[m tinker with setup.sh
+* [33m0d7899d[m add indispensable truth!
+* [33m4d66ed2[m add relevant fact
+* [33m482bb6b[m more tinker
+* [33mad31d12[m Initial commit
